@@ -1,0 +1,121 @@
+Title,Description,CategoryID,IsDefault,TargetSets,MeasurementType,Level
+Wall Pushups,"With your feet together, place your palms flast against the wall.
+Bend the shoulders and elbows until the forehead gently touhes the wall.",1,1,"50,50,50",REP,1
+Incline Pushups,"Find an object half your height.
+Lean over and grab the object, hands shoulder width apart.
+Bend until your torso lightly touches the object.",1,1,"40,40,40",REP,2
+Kneeling Pushups,Kneel on the floor with feet together. Do pushups using your knees as a pivot.,1,1,"30,30,30",REP,3
+Half Pushups,Pushups only half way down.,1,1,"25,25",REP,4
+Pushups,"Push up all the way down.
+Put a tennis ball under your chest to know how deep you need to push down.",1,1,"20,20",REP,5
+Diamond Pushups," Make a diamond shape with your index fingers and thumbs.
+Push down until until your chest touches the back of your hand.",1,1,"20,20",REP,6
+Uneven Pushups,"Put one hand on an uneven object like a basketball or soccer ball.
+Push down until your chest reaches the hand holding the object.",1,1,"20,20",REP,7
+Half One-Arm Pushups,"Get in a regular pushup position and put one arm behind your back.
+Do a pushup half way down.",1,1,"20,20",REP,8
+Lever Pushups,"Like an uneven pushup, except you put the object away from your body.",1,1,"20,20",REP,9
+One-Arm Pushups,Do a pushup with one arm.,1,1,"20,20",REP,10
+Jackknife Squat,"Lean forward and grab onto an object knee to torso height.
+Squat down until you can't squat down further.",2,1,"40,40,40",REP,1
+Assisted Half Squat,"Stand up straight.
+Hold on to an object above thigh height.
+Squat down until 90 degrees.",2,1,"40,40,40",REP,2
+Assisted Squat,"Stand up straight.
+Hold on to an object above thigh height.
+Squat down until you can't squat down further.",2,1,"30,30,30",REP,3
+Half Squat,Squat down until 90 degrees.,2,1,"50,50",REP,4
+Squat,Squat down until you can't squat down further.,2,1,"30,30",REP,5
+Close Squat,"Stand with heels together and toes pointed slightly outward.
+Hands extendeed outward.
+Squat down until you can't squat down further.",2,1,"20,20",REP,6
+Assisted Pistol Squat Hold,"Hold onto a pole or door.
+Get into a squat position with one leg extended outward.
+Hold.",2,1,"60,60,60",SECONDS,7
+Assisted Pistol Squat,"Hold onto a pole or door.
+Squat down with one leg extended outward.",2,1,"30,30",REP,8
+Half pistol squat,"Stand with on foot extended outward.
+Squat down until 90 degrees.",2,1,"20,20",REP,9
+Pistol Squat,"Stand with on foot extended outward.
+Squat down until you can't squat down further.",2,1,"50,50",REP,10
+Vertical Pull,"Find a pole or door.
+Stand 10cm out and grab.
+Lean back, then pull upright.",3,1,"40,40,40",REP,1
+Inverted Row Legs Bent,"Find a horizontal base that you can sit under.
+Grab the base and bend your knees. 
+Pull up.",3,1,"30,30,30",REP,2
+Inverted Row,"Find a horizontal base that you can sit under.
+Grab the base and straighten your knees. 
+Pull up.",3,1,"30,30,30",REP,3
+Archer Row,"Find a horizontal base that you can sit under.
+Grab the base with both hands and straighten your knees. 
+Pull up with one arm. Keep the other arm straight.",3,1,"25,25",REP,4
+One Arm Inverted Row,Inverted rows with one arm.,3,1,"20,20",REP,5
+Tuck Front Lever,"Hold the bar.
+Pull your legs and hips up to your chest.",3,1,"60,60",SECONDS,6
+Advanced Tuck Front Lever,"Hold the bar.
+Pull your legs and hips up, thighs perpendicular to the bar.",3,1,"50,50",SECONDS,7
+One Leg Front Lever,"Start from the tuck front lever position and extend one leg.
+Your other leg is tuckedr.",3,1,"45,45",SECONDS,8
+Advanced One Leg Front Lever,"Start from the tuck front lever position and extend one leg.
+Your other leg is partially tucked, thighs perpendicular to the bar.",3,1,"40,40",SECONDS,9
+Front Lever,Start from the tuck front lever position and extend your legs.,3,1,"30,30",SECONDS,10
+Dead Hang,Grab onto a bar and hang.,4,1,"60,60",SECONDS,1
+Negative Pull Ups,Start at the top of the bar and slowly go down.,4,1,"20,20",REP,2
+Half Pull Ups,"Pullups, but instead of going all the way down, go down only to 90 degrees.",4,1,"15,15",REP,3
+Pull Ups,Pull up chins above the bar.,4,1,"10,10",REP,4
+Close Grip Pull Ups,Pullups with hands closer together.,4,1,"10,10",REP,5
+One Arm Dead Hang,Grab onto a bar with one arm and hang.,4,1,"30,30",SECONDS,6
+One Arm Negative Pull Ups,Start above the bar and slowly go down.,4,1,"15,15",REP,7
+Half One Arm Pull Ups,"One arm pull up, but only go down half way.",4,1,"10,10",REP,8
+Assisted One Arm Pullups,"Hang a towel by one arm.
+Pull halfway up with one arm grabbing the towel.
+For the rest of the way, release the towel and use just the one hand.",4,1,"7,7",REP,9
+One Arm Pullups,One arm behind your back and pull up.,4,1,"6,6",REP,10
+Knee Tucks,"Sit on a chair and grab on to the seat.
+Lean back and straighten your legs.
+Tuck our legs to your chest.",5,1,"30,30,30",REP,1
+Flat Knee Raises,"Lay down.
+Bend your knees to 90 degrees and lift your legs off the ground.
+Raise your legs to where our thighs are perpendicular to the floor.",5,1,"30,30,30",REP,2
+Flat Bent Leg Raises,"Lay down.
+Bend your legs a bit and lift you legs off the ground.
+Raise your legs perpendicular to the floor.",5,1,"25,25,25",REP,3
+Flat Leg Raises,"Lay down.
+Keep your legs straight and lift you legs off the ground.
+Raise your legs perpendicular to the floor.",5,1,"20,20",REP,4
+Parallel Knee Raises,"Grab two objects like parallel bars.
+Bend your knees to 90 degrees and lift your body off the ground.
+Raise your legs to where our thighs are perpendicular to the floor.",5,1,"25,25,25",REP,5
+Parallel Leg Raises,"Grab two objects like parallel bars.
+Keep your legs straight and lift your body off the ground.
+Raise your legs to where our thighs are perpendicular to the floor.",5,1,"20,20",REP,6
+Hanging Knee Raises,"Hang on to a bar.
+Bend your knees to 90 degrees and lift your legs parallel to the bar.",5,1,"15,15,15",REP,7
+Hanging Bent Leg Raises,"Hang on to a bar.
+Bend your legs a bit and lift your legs parallel to the bar.",5,1,"15,15",REP,8
+Hanging Leg Raises,"Hang on to a bar.
+Keep your legs straight and lift your legs parallel to the bar.",5,1,"15,15",REP,9
+Toes To Bar,"Hang on to a bar.
+Keep your legs straight and lift your legs to your hands.",5,1,"15,15",REP,10
+Vertical Pike Pushups,"Put your hands on the wall and bend 90 degrees.
+Push towards the wall.",6,1,"40,40,40",REP,1
+Incline Pike Pushups,"Put your hands on an elevated object like a chair.
+Bend at the waist with a straight back.
+Stick your butt as hihg as you can.
+Push down.",6,1,"40,40,40",REP,2
+Pike Pushups,Like the incline pike pushups but on the floor.,6,1,"30,30,30",REP,3
+Decline Pike Pushups,Do the pike pushups with your legs on an elevated object.,6,1,"30,30",REP,4
+Wall Handstand,Walk up on the wall with your belly facing the wall.,6,1,"60,60",SECONDS,5
+Handstand,"Kick up to the wall with your back facing the wall.
+Once balanced, let go of the wall.",6,1,"30,30",SECONDS,6
+Wall Handstand Pushups Negatives,"Walk up on the wall with your belly facing the wall.
+You want your hands a bit away from the wall so you can tilt your body.
+Push down. Walk back up.",6,1,"20,20",REP,7
+Wall Handstand Pushups,"Walk up on the wall with your belly facing the wall.
+You want your hands a bit away from the wall so you can tilt your body.
+Push down, dragging your toes on the wall.
+Walk back up.",6,1,"15,15",REP,8
+Bent Handstand,Hold a handstand with your arms bent.,6,1,"30,30",SECONDS,9
+Handstand Pushups,"Get into a handstand position.
+Push down.",6,1,"20,20",REP,10
